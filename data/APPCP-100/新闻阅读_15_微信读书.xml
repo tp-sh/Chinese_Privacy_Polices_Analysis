@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="4">
+			一、我们如何收集和使用个人信息
+			<p category="4.1">1.1 个人信息是指以电子或者其他方式记录的、能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。</p>
+			<p category="4.3">1.2 在你使用微信读书服务的过程中，我们会按照如下方式收集你在使用服务时主动提供或因为使用服务而产生的信息，用以向你提供服务、优化我们的服务以及保障你的帐号安全：</p>
+			<p category="4.1,4.2.2,4.3">1.2.1 当你通过微信帐号登录微信读书App时，我们会收集你的微信帐号的头像、昵称，以及你在授权页面同意我们收集的信息（例如微信好友关系。就微信好友关系，我们会在单独获得你的授权同意后才收集，如你不同意授权的，不会影响你使用微信读书其他功能）。当你通过邮箱/手机帐号登录微信读书App时，我们会收集你的邮箱地址/手机号码。当你成功登录微信读书App并编辑头像、昵称、性别、地区、自我介绍和签名的，我们还将收集该等信息。收集这些信息是为了帮助你完成新用户基本信息的完善，在你与其他用户的互动中展示，保护你的帐号安全等，其中的性别信息还会用于向你提供个性化的推荐服务。若你不提供前述信息，你可能无法正常使用我们的全部或部分服务。</p>
+			<p category="4.1,4.2.2,4.3">1.2.2 当你使用微信读书服务时，为保障你正常使用我们的服务，维护我们服务的正常运行，以及保障你的帐号安全，我们会收集你的操作系统、唯一设备标识符（AndroidID）、微信读书App版本号、设备启动时间、系统版本、设备型号、物理内存、硬盘、系统更新时间、运营商、时区、国家、语言、广告标识符、接入网络的方式、类型和状态、操作日志、服务日志信息（你在本软件内搜索、查看的信息、服务故障信息、引荐网址等信息）、已安装应用列表、设备SN（硬件序列号）等日志信息，这类信息是为你提供服务必须收集的基础信息。</p>
+			<p category="4.1,4.2.2,4.3">1.2.3 当你使用微信读书App搜索或浏览微信读书内容时，我们会收集你的搜索记录、阅读类记录（阅读记录、点赞记录、订阅记录）、访问时间、互动记录，目的是向你提供更加精准和个性化的服务和内容。</p>
+			<p category="4.1,4.2.2,4.3">1.2.4 当你使用微信读书App的书架或书单功能时，你加入书架或书单的书籍等信息会存储在我们的服务器中，因为存储是实现这一功能所必需的。</p>
+			<p category="4.1,4.2.2,4.3">1.2.5 当你使用微信读书App的笔记功能时，你的笔记类操作信息（划线、想法、书签、点评）会存储在我们的服务器中，因为存储是实现这一功能所必需的。</p>
+			<p category="4.1,4.2.2,4.3">1.2.6 当你在微信读书App中关注其他用户或被其他用户关注时，你关注和关注你的用户等信息会存储在我们的服务器中，因为存储是实现这一功能所必需的。</p>
+			<p category="4.1,4.2.2,4.3">1.2.7 当你使用微信读书App的黑名单功能时，你加入黑名单的用户等信息会存储在我们的服务器中，因为存储是实现这一功能所必需的。</p>
+			<p category="4.1,4.2.2,4.3">1.2.8 当你使用微信读书App的私信功能时，你发送和收到的私信等信息会存储在我们的服务器中，因为存储是实现这一功能所必需的。</p>
+			<p category="4.1,4.2.2,4.3">1.2.9 当你使用微信读书App的相关付费服务时，我们将收集你的订单信息（包括你在购买纸书的订单中，所填写的收件人姓名、地址、联系电话等），因为这是为你提供服务所必须的基础信息。</p>
+			<p category="4.1,4.2.2,4.3">1.2.10当你通过拍照来设置头像时，以及扫码登录网页版时，我们将申请使用你的相机权限（当你通过微信读书墨水屏版、网页版、小程序版使用微信读书服务时不会申请使用），这是实现该等功能所必需的。不授权将导致你无法使用该等功能，但不影响你使用其他功能。</p>
+			<p category="4.1,4.2.2,4.3">1.2.11当你授权同步你在微信收藏、浮窗及已关注公众号中的文章到微信读书App，我们将从微信App获得你在微信收藏、浮窗及已关注公众号中的文章列表，这是实现该等功能所必需的。不授权将导致你无法使用该等功能，但不影响你使用其他功能。</p>
+			<p category="4.1,4.2.2,4.3">1.2.12当你使用相册中的照片作为你在微信读书App中的头像，或通过私信向其他用户发送照片时，我们将申请使用你的相册权限，以用于选取和使用照片，这是实现该等功能所必需的。不授权将导致你无法使用该等功能，但不影响你使用其他功能。</p>
+			<p category="4.1,4.2.1,4.3">1.2.13当你需要重置青少年模式的密码时，我们还需要你上传你的手持身份证照片进行人工申诉。</p>
+			<p category="4.6">1.3 根据相关法律法规及国家标准，在以下情形中，我们会收集、使用你的个人信息，而无需征求你的同意：</p>
+			<p category="4.6.4">1.3.1 与国家安全、国防安全等国家利益直接相关的，和/或与公共安全、公共卫生、公众知情等重大公共利益直接相关的；</p>
+			<p category="4.6">1.3.2 与犯罪侦查、起诉、审判和判决执行等直接相关的；</p>
+			<p category="4.6.4">1.3.3 出于维护你或其他个人的生命、财产、声誉等重大合法权益的目的，但难以得到本人同意的；</p>
+			<p category="4.6.6">1.3.4 所收集的个人信息是你自行向社会公众公开的；</p>
+			<p category="4.6.6">1.3.5 从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；</p>
+			<p category="4.6.2">1.3.6 根据你的要求签订和履行合同所必需的；</p>
+			<p category="4.6">1.3.7 用于维护腾讯所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；</p>
+			<p category="4.6">1.3.8 为开展合法的新闻报道所必需的；</p>
+			<p category="4.6">1.3.9 出于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；</p>
+			<p category="4.6.7">1.3.10 法律法规规定的其他情形。</p>
+			<p category="14">1.4特别地，如您使用部分手机厂商（如VIVO、小米、魅族、华为、OPPO等品牌）的手机使用微信读书App，我们接入的上述手机厂商推送SDK、更新SDK需要收集您的设备标识信息，包括IMEI /OAID（适用于Android Q以上系统）、IMEI MD5/MEIDMD5、Android ID、VAID、AAID，以及您的MID（适用于MIUI系统），并可能会收集您的手机的各项数据，包括设备型号、网络类型、运营商名称、设备存储、设备运行进程信息、系统类型、系统版本、设备屏幕尺寸等参数用于实现我们产品信息的推送。部分厂商SDK还会收集使用推送服务的应用信息（包名、版本号、应用名称、首次安装时间、上次完成更新的时间），以确保您在卸载应用后不会再接收到和该应用相关的通知。</p>
+			<p category="14">对于部分厂商的SDK，如果您设置了应用分身，我们还会收集您的Space ID来为您进行区分不同应用。</p>
+			<p category="14">我们将对接入的相关第三方SDK在以下目录中列明。您可以通过相关链接查看第三方的数据使用和保护规则。请注意，第三方SDK可能由于版本升级、策略调整等原因导致其个人信息处理类型发生变化，请以其公示的官方说明为准：</p>
+			
+			<p category="4.6.1,6.1.3">1.5你理解并同意：我们向你提供的功能和服务是不断更新和发展的，如果某一功能或服务未在前述说明中且收集了你的信息，我们会通过页面提示、交互流程、网站公告等方式另行向你说明信息收集的内容、范围和目的，以征得你的同意。</p>
+			<p category="4.6.1">1.6 你理解并同意：当我们拟将你的信息用于本政策未载明的其它用途时，将事先征求你的同意。当我们拟将基于特定目的收集的你的信息用于其他目的时，将事先征求你的同意。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="13.1">
+			二、      Cookie       及同类技术
+			<p category="13.1">2.1 为确保微信读书App的正常运行，我们会在你的设备上存储名为Cookie的小数据文件。Cookie通常包含标识符、站点名称以及一些号码和字符。借助于Cookie，我们能够确保微信读书App的正常运转、简化你重复操作的步骤（如注册、登录），从而提升你的使用体验。</p>
+			<p category="13.1">2.2 我们不会将Cookie用于本政策所述目的之外的用途。你可根据自己的偏好管理或删除Cookie。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="5">
+			三、我们如何分享、转移、保留、保存或披露个人信息
+			<p category="5.2.4">3.1除了本隐私政策第1.4条所述的接入第三方SDK的情形，以及本条明确描述的第三方之外，我们不会向其他第三方分享可用于识别你个人身份的信息（例如你的姓名或电子邮件地址），除非事先得到你的明确授权。</p>
+			<p category="5.1">以下为我们与第三方共享个人信息的详情：</p>
+			<p category="5.1">苹果应用内支付（IAP）</p>
+			<p category="5.1">接收方名称： Apple Inc.</p>
+			<p category="5">使用目的：帮助用户使用苹果应用内支付服务</p>
+			<p category="5">使用场景：商品/服务支付，仅限于IOS系统</p>
+			<p category="5">处理方式：采取去标识、加密等方式进行传输和处理</p>
+			<p category="5">个人信息种类：用户标识信息，订单交易信息（苹果物品ID、折扣、物品数量）</p>
+			<p category="5">第三方隐私政策或官网链接： https://www.apple.com.cn/legal/privacy/szh/。</p>
+			<p category="5.2.3">3.2随着我们业务的持续发展，我们以及我们的关联公司有可能进行合并、收购、资产转让或类似的交易，你的个人信息有可能作为此类交易的一部分而被转移。我们将在转移前通知你，并按照一切适用的法律、行政法规的规定保障你的合法权益。</p>
+			<p category="5.2">3.3我们或我们的关联公司还可能为以下需要而保留、保存或披露你的个人信息：</p>
+			<p category="5.2">3.3.1遵守适用的法律法规；</p>
+			<p category="5.2">3.3.2遵守法院命令或其他法律程序的规定；</p>
+			<p category="5.2">3.3.3遵守相关政府机关的要求；</p>
+			<p category="5.2">3.3.4为遵守适用的法律法规、维护社会公共利益，或保护我们的客户、我们的其他用户或雇员的人身和财产安全或合法权益所合理必需的用途。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="11">
+			四、我们如何保护个人信息
+			<p category="11">4.1 我们已使用符合业界标准的安全防护措施保护你提供的个人信息，防止数据遭到未经授权的访问、公开披露、使用、修改、损坏或丢失。我们将采取一切合理可行的措施，保护你的个人信息。例如，我们将使用加密技术（例如，SSL）、匿名化处理等手段保护个人信息；我们将使用受信赖的保护机制防止数据遭到恶意攻击；我们将部署访问控制机制，确保仅授权人员能访问个人信息；我们将加强员工对于保护个人信息重要性的认识。</p>
+			<p category="11">4.2 我们将采取一切合理可行的措施，确保未收集无关的个人信息。</p>
+			<p category="11">4.3 互联网并非绝对安全的环境，我们强烈建议你妥善保管自己的帐号与密码，协助我们保证你的帐号安全。</p>
+			<p category="11">4.4 互联网并非绝对安全的环境，我们将尽力确保或担保你发送给我们的任何信息的安全性。我们也请你理解，任何安全措施都无法做到无懈可击。</p>
+			<p category="11,6.1.2">4.5 若不幸发生个人信息安全事件，我们将按照法律法规的要求，及时向你告知以下情况：安全事件的基本情况和可能的影响、我们已采取或拟采取的处置措施、你可自主防范和降低风险的建议、对你的补救措施等。我们将及时将事件相关情况以公告或推送通知等合适的方式向你告知。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+			五、你的权利
+			<p category="6">按照中国相关的法律、法规、标准，以及其他国家、地区的通行做法，我们保障你对自己的个人信息行使以下权利（当你通过微信读书墨水屏版、小程序版、网页版使用微信读书服务时，你需要进入微信读书手机版App行使以下权利）：</p>
+		</title>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6,2,6.3,6.4">
+				5.1     查阅、更正、删除、复制你的个人信息
+				<p category="6.2">你有权访问你的个人信息，法律法规规定的例外情况除外。你可以通过以下方式访问相关个人信息：</p>
+			</title>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.1     查阅主页：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="6.2">（2）点击“主页”进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.2     查阅个人资料：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="6.2">（2）点击“主页”进行访问；</p>
+					<p category="6.2">（3）查阅头像、昵称、性别、地区、自我介绍、签名。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.3     查阅书架及书单：
+					<p category="14">（1）进入微信读书App后，点击下方的“书架”；</p>
+					<p category="6.2">（2）点击左上方的“书架”或“书单”进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.4     查阅笔记（包括划线、想法、书签、点评）：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“笔记”；</p>
+					<p category="6.2">（3）点击拟查阅笔记的书籍进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.5     查阅阅读类记录（包括读过、赞过、订阅）：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="6.2">（2）点击“读过和订阅”进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.6     查阅你关注的用户和关注你的用户：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“关注”；</p>
+					<p category="6.2">（3）点击“我关注的”或“关注我的”进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.7     查阅私信：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击左上角信封图标；</p>
+					<p category="6.2">（3）点击“私信”进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.8     查阅黑名单：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="6.2">（4）点击“黑名单”进行查阅。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+					5.1.9     查阅订单：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="6.2">（2）点击“订单”进行查阅。</p>
+				</title>
+			</section>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.3">
+				5.2     更正你的个人信息
+				<p category="6.3">你可以通过以下方式更正相关个人信息：</p>
+				<p category="14">（1）进入微信读书App后，点击“我”；</p>
+				<p category="6.3">（2）点击“介绍自己”或“签名”栏以进入“编辑个人资料”页面；</p>
+				<p category="6.3">（3）更正头像、昵称、自我介绍、签名。</p>
+			</title>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+				5.3     删除你的个人信息
+				<p category="6.4">你可以通过以下方式删除相关个人信息：</p>
+			</title>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.1     删除个人资料：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“介绍自己”或“签名”栏以进入“编辑个人资料”页面；</p>
+					<p category="6.4">（3）删除自我介绍、签名。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.2     删除书架中的书籍：
+					<p category="14">（1）进入微信读书App后，点击下方的“书架”；</p>
+					<p category="14">（2）点击左上方的“书架”；</p>
+					<p category="14">（3）点击“选择”；</p>
+					<p category="6.4">（4）选取拟删除的书籍；</p>
+					<p category="14">（5）点击“移出书架”；</p>
+					<p category="14">（6）点击“移出”。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.3     删除笔记（包括划线、想法、书签、点评）：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“笔记”；</p>
+					<p category="6.4">（3）选取拟删除笔记的书籍；</p>
+					<p category="6.4">（4）向左滑动拟删除的笔记，并点击“删除”；</p>
+					<p category="6.4">（5）再次点击“删除”。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.4     删除阅读类记录（包括读过、赞过、订阅）：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“读过和订阅”；</p>
+					<p category="14">（3）点击“编辑”；</p>
+					<p category="6.4">（4）选择拟删除的阅读记录，并点击“删除”；</p>
+					<p category="6.4">（5）再次点击“删除”。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.5     删除你关注的用户：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“关注”；</p>
+					<p category="14">（3）点击“我关注的”；</p>
+					<p category="14">（4）点击“管理”；</p>
+					<p category="6.4">（5）选择拟取消关注的用户，并点击“取消关注”；</p>
+					<p category="6.4">（6）再次点击“取消关注”。</p>
+					<p category="6.4">取消关注后，你将不再收到相关用户的动态信息。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.6     删除关注你的用户：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击“关注”；</p>
+					<p category="14">（3）点击“关注我的”；</p>
+					<p category="14">（4）点击“管理”；</p>
+					<p category="6.4">（5）选择拟解除对你的关注的用户，并点击“互不关注”；</p>
+					<p category="6.4">（6）再次点击“互不关注”。</p>
+					<p category="6.4">互不关注将解除双方关注关系。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.7     删除私信：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击左上角信封图标；</p>
+					<p category="14">（3）点击“私信”；</p>
+					<p category="6.4">（4）向左滑动拟删除的私信；</p>
+					<p category="6.4">（5）点击“删除”。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.3.8     删除黑名单：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角“设置”图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）点击“黑名单”；</p>
+					<p category="6.4">（5）对拟移除黑名单的用户点击“解除”。</p>
+				</title>
+			</section>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.2">
+				5.4     获得个人信息副本：
+				<p category="14">（1）进入微信读书App后，点击“我”；</p>
+				<p category="14">（2）点击右上角“设置”图标；</p>
+				<p category="14">（3）点击“帮助与反馈”；</p>
+				<p category="6.2">（4）点击“账户信息副本”入口，按指引获得个人信息副本。</p>
+			</title>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.9">
+				5.5     改变你的授权同意
+				<p category="6.9">你可以通过以下方式撤回你对于处理相关个人信息的授权同意：</p>
+			</title>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.9">
+					5.5.1     在微信     App     中，撤回对微信读书     App     使用你的微信朋友关系的授权（以下仅为参考，实际操作请以微信     App     中相关设置为准）：
+					<p category="14">（1）在微信App中“我”的页面，点击“我—设置”；</p>
+					<p category="14">（2）点击“隐私”；</p>
+					<p category="14">（3）点击“个人信息与权限”；</p>
+					<p category="14">（4）点击“授权管理”；</p>
+					<p category="6.9">（5）找到微信读书并解除授权。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+					5.5.2     在微信读书     App     中，设置     “     私密阅读     ”     ：
+					<p category="14">（1）进入微信读书App后，点击下方的“书架”；</p>
+					<p category="14">（2）点击左上方的“书架”；</p>
+					<p category="14">（3）选点击“选择”并选取拟设置私密阅读的书籍；</p>
+					<p category="14">（5）点击“私密阅读”；</p>
+					<p category="14">（6）点击“开启”。</p>
+					<p category="14">开启“私密阅读”后，你的阅读记录将不再公开。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+					5.5.3     设置     “     加入书架后自动开启私密阅读     ”     ：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）开启“加入书架后自动开启私密阅读”。</p>
+					<p category="14">开启“私密阅读”后，你的阅读记录将不再公开。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+					5.5.4     设置     “     替身书架     ”     ：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）开启“替身书架”并进行设置。</p>
+					<p category="14">开启“替身书架”后，“替身书架”将代替你的真实书架显示在你的个人资料中，其他用户仅能查看你的“替身书架”。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+					5.5.5     设置     “     关注你须获得你的同意     ”     ：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）开启“关注你须获得你的同意”。</p>
+					<p category="14">开启“关注你须获得你的同意”后，其他用户仅在获得你的同意后方可关注你，且仅关注你的用户可查看你的书架和阅读动态。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+					5.5.6     设置     “     不接收未关注的人私信     ”     ：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）开启“不接收未关注的人私信”。</p>
+					<p category="14">但请注意，你收回同意的决定，不会影响此前已开展的个人信息处理。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.9">
+					5.5.7     撤回相机权限的授权：
+					<p category="14">（1）在你的手机上打开“设置”；</p>
+					<p category="14">（2）点击“隐私”；</p>
+					<p category="14">（3）点击“相机”；</p>
+					<p category="14">（4）关闭“微信读书”的相机权限。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.9">
+					5.5.8     撤回对微信收藏、浮窗及已关注公众号中的文章列表的授权：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）点击“微信收藏和浮窗文章”；</p>
+					<p category="14">（5）点击“停止同步”。</p>
+				</title>
+			</section>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">5.6     注销帐号</title>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">
+					5.6.1 你随时可通过以下方式申请注销你的微信读书帐号：
+					<p category="14">（1）进入微信读书App后，点击“我”；</p>
+					<p category="14">（2）点击右上角设置图标；</p>
+					<p category="14">（3）点击“隐私”；</p>
+					<p category="14">（4）点击“帐号”；</p>
+					<p category="6.4">（5）点击“注销账号”；</p>
+					<p category="6.4">（6）在仔细阅读并完全同意页面提示信息后，如仍决定注销账号的，请点击“我已知悉以上内容，继续申请注销”；</p>
+					<p category="6.4">（7）在仔细阅读并同意《注销须知》后，点击“申请注销”。</p>
+				</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.4">5.6.2     你的微信读书帐号一旦被注销，你在微信读书上的所有个人数据和信息将被永久删除。</title>
+			</section>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+				5.7 个性化推荐
+				<p category="6.8">自动化决策是指通过计算机程序自动分析、评估个人的行为习惯、兴趣爱好，并进行决策的活动。我们会以自动化决策方式，基于第1.2.1条中的性别信息以及第1.2.3条中的搜索记录、阅读类记录（阅读记录、点赞记录、订阅记录）、访问时间、互动记录，对你的偏好、习惯作特征分析，以便向你提供符合你的兴趣的个性化的内容推荐，例如向你推荐与你的相关程度更高的书籍、书单，以更好地满足你的使用体验。</p>
+				<p category="6.8">另需提示，在更快地为你提供感兴趣内容的同时，个性化推荐可能会导致你所看到的内容越来越趋于同质化。你也可以关闭个性化推荐，具体关闭方式为进入微信读书App后，点击“我”—“设置”图标—“隐私”，然后关闭个性化推荐。</p>
+				<p category="6.8">关闭个性化推荐后，我们将不会基于你的个性化信息，向你推荐你可能感兴趣的信息或者内容；你仍可能收到其他推荐信息或者内容，但这种推荐与你的个人特征无关。</p>
+				<p category="6.8">如果你对个性化推荐的结果、关闭个性化推荐的功能有任何意见的，可通过“我” — “设置 图标—“帮助与反馈” —“意见反馈”向我们提出，我们将及时处理你的意见并进行回复。</p>
+			</title>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6">
+				5.8个性化广告
+				<p category="6">我们可能将通过某些功能所收集的信息用于我们的其他服务。例如，我们可能将你在使用我们某一功能或服务时我们收集的信息，在另一功能或服务中用于向你或你的好友提供特定内容，包括但不限于展示广告（你可以通过“我—设置—隐私—个性化广告管理”管理微信读书为你提供的个性化广告）。</p>
+			</title>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.10">
+				5.9逝者账户说明
+				<p category="6.10">根据《中华人民共和国个人信息保护法》等法律法规的规定，用户死亡后，其近亲属可对逝者账号行使法律所规定的权利。在微信读书App，如用户不幸逝世，其近亲属可根据前述法律规定，进入微信读书App后，点击“我” —“设置”图标—“帮助与反馈”
+—“逝者账号说明”查看相关指引并发起流程。</p>
+			</title>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">5.10对于你的合理请求，我们原则上不收取费用，     但对于多次、重复、超出合理限度的请求，我们有权收取一定成本费用。</title>
+		</section>
+		<section>
+			<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">5.11     在以下情形中，我们将无法响应你的请求：</title>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">5.11.1     与我们履行法律法规规定的义务相关的；</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">5.11.2     与国家安全、国防安全直接相关的；</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">5.11.3     与公共安全、公共卫生、重大公共利益直接相关的；</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">5.11.4     与犯罪侦查、起诉、审判和执行判决等直接相关的；</title>
+			</section>
+			<section>
+				<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="7.3">
+					5.11.5     存在其他根据法律、行政法规的规定无法响应你的请求的情况。
+					<p category="14">请注意，不同操作系统之间、微信读书App的不同版本之间，操作设置可能存在一定差异；此外，为了优化你的使用体验，我们也可能对操作设置进行调整。故以上指引仅供参考。</p>
+				</title>
+			</section>
+		</section>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="12">
+			六、我们如何处理未成年人的个人信息
+			<p category="12">6.1 微信读书App和服务主要面向成年人。如果没有父母或监护人的同意，未成年人不应创建自己的用户帐号和/或使用我们的产品、网站和服务。</p>
+			<p category="12">6.2 对于经父母或监护人同意而收集未成年人个人信息的情况，我们只会在法律允许、父母或监护人明确同意或者保护未成年人所必要的情况下处理此信息。</p>
+			<p category="12">6.3《儿童隐私保护声明》是适用于14周岁以下的儿童用户的信息保护规则。在《儿童隐私保护声明》的适用范围内，如其与本政策存在不一致或矛盾之处，请以《儿童隐私保护声明》为准。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="10">
+			七、个人信息的存储地点与期限
+			<p category="10.2,9.1">7.1 我们在中华人民共和国境内收集和产生的个人信息，将存储在中华人民共和国境内。如果你的个人信息存储地点从中华人民共和国境内转移至中华人民共和国境外的，我们将严格依照法律的规定执行。</p>
+			<p category="10.1">7.2我们仅在为实现本政策所述目的所必需的最短期限或法律、行政法规所规定的期限内保留你的个人信息，例如：</p>
+			<p category="10">7.2.1 微信帐号：若你通过微信帐号登录微信读书服务，我们需要保存你的微信帐号，以保证你正常使用本服务。</p>
+			<p category="10">7.2.2 发表内容：当你使用笔记功能（包括划线、想法、书签、点评）时，我们需要保存前述信息，以保证你的正常浏览。当你删除相关笔记后，我们将删除相应消息。</p>
+			<p category="6.1.3,10.3">7.3 当个人信息的存储期限届满，或者我们的产品或服务发生停止运营的情形时，我们将以推送通知、公告等形式通知你，并在合理的期限内删除你的个人信息或进行匿名化处理。“匿名化处理”指通过对个人信息进行技术处理，使得个人信息主体无法被识别，且处理后的信息不能被复原的过程。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="6.1.1">
+			八、本政策的变更
+			<p category="6.1.1">8.1我们的隐私政策可能变更。未经你明确同意，我们不会削减你按照本隐私政策所应享有的权利。当指引的条款发生变更时，我们会在你登录及版本更新时以推送通知、弹窗或其他适当形式向你展示变更后的指引。</p>
+			<p category="6.1.1">8.2 对于重大变更，我们将提供显著的通知。前述重大变更包括：</p>
+			<p category="6.1.1">8.2.1 我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；</p>
+			<p category="6.1.1">8.2.2 我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；</p>
+			<p category="6.1.1">8.2.3 个人信息共享、转让或公开披露的主要对象发生变化；</p>
+			<p category="6.1.1">8.2.4 你参与个人信息处理方面的权利及其行使方式发生重大变化；</p>
+			<p category="6.1.1">8.2.5 我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；</p>
+			<p category="6.1.1">8.2.6 个人信息安全影响评估报告表明存在高风险时。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="4" font-size="0.94" font-weight="1.0" category="1.2">
+			九、如何联系我们
+			<p category="1.2">如果你对本隐私政策有任何疑问、意见或建议，请通过微信读书App&gt;我&gt;设置&gt;帮助与反馈页面底部的“意见反馈”与我们联系。你的疑问、意见或建议可以通过“微信读书团队”的会话页面发送。</p>
+			<p category="3.2.2">此外，你还可以通过 https://kf.qq.com/ 与我们联系，或将你的问题发送至Dataprivacy@tencent.com或寄到如下地址：</p>
+			<p category="3.2.3">中国广东省深圳市南山区科技中一路腾讯大厦 法务部 数据及隐私保护中心（收）</p>
+			<p category="3.2">邮编：518057</p>
+			<p category="7.1">我们将在十五个自然日内回复。（正文完）</p>
+			<p category="1.1">深圳市腾讯计算机系统有限公司</p>
+		</title>
+	</section>
+</policy>

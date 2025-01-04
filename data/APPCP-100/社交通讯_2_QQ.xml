@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<policy>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="14">
+			引言
+			<p category="8">腾讯严格遵守法律法规，遵循以下隐私保护原则，为您提供更加安全、可靠的服务：Tencent adheres to the following privacy protection principles and is committed to providing you with more secure and reliable service:</p>
+			<p category="11">·安全可靠：1. Security Safeguard and Reliance:</p>
+			<p category="11">我们竭尽全力通过合理有效的信息安全技术及管理流程，防止您的信息泄露、损毁、丢失。We try our best to prevent your information from breach, damage or loss via effective and reasonable information security technology and administrative process;</p>
+			<p category="6">·自主选择：2. Choice:</p>
+			<p category="6">我们为您提供便利的信息管理选项，以便您做出合适的选择，管理您的个人信息。 We provide you convenient privacy management options so that you may make proper choices to control or manage your privacy;</p>
+			<p category="11">·保护通信秘密：3. Protection of Communication Secret:</p>
+			<p category="11">我们严格遵照法律法规，保护您的通信秘密，为您提供安全的通信服务。We will strictly protect your communication secrets in compliance with the applicable laws and regulations;</p>
+			<p category="8">·合理必要：4. Reasonableness and Necessity:</p>
+			<p category="8">为了向您和其他用户提供更好的服务，我们仅收集必要的信息。We will collect necessary data so that we can provide you and other users with better service in order to achieve products' functions;</p>
+			<p category="14">·公开透明：5. Transparency:</p>
+			<p category="14">我们努力使用简明易懂的表述，向您介绍隐私政策，以便您清晰地了解我们的信息处理方式。We endeavor to introduce our privacy policy in an easy and straightforward way and help you better understand our information process practice;</p>
+			<p category="11">·将隐私保护融入产品设计：6. Integrate Privacy PBD Principle with Tencent’s Product Designs:</p>
+			<p category="11">我们在产品和服务研发、运营的各个环节，融入隐私保护的理念。We take legal, product, design and other elements into considerations of every aspect of our product and service development, to integrate with Privacy PBD Principle, in order to carry out the methodology of Tencent PBD Privacy Protection.</p>
+			<p category="14">《腾讯隐私政策》主要向您说明：This Privacy Policy mainly explains:</p>
+			<p category="4.1">我们收集哪些信息What information we collect.</p>
+			<p category="4.3">我们收集信息的用途How we use that information.</p>
+			<p category="6">您所享有的权利Your Rights.</p>
+			<p category="14">您可以通过阅读《腾讯隐私政策》（以下简称“本隐私政策”），详细了解我们对个人信息的收集、使用方式，以便您更好地了解我们的服务并作出适当的选择。We hope that you will read this Privacy Policy (this "Privacy Policy") to understand how we collect and use information in order for you to further understand our services and to make appropriate selections.</p>
+			<p category="14">如果我们具体的产品和服务有具体的隐私保护指引，您可以查阅该特定隐私保护指引，以帮助您更好地保护您的个人信息。</p>
+			<p category="1.1,1.2.3">本隐私政策适用的产品和服务由深圳市腾讯计算机系统有限公司提供。注册地址为深圳市南山区粤海街道麻岭社区科技中一路腾讯大厦35层 。</p>
+			<p category="14">除另有约定外，本隐私政策所用术语与《腾讯服务协议》中的术语具有相同的涵义。By using Tencent service, you agree to the contents contained in this policy. Unless otherwise defined herein, the terms used in this privacy policy shall have the same meanings as those defined in the .</p>
+			<p category="1.2">如您有问题，请联系我们。Should you have any queries, please .</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="4">
+			我们收集的信息
+			<p category="8">我们根据法律法规的要求，遵循合法、正当、必要和诚信的原则，仅收集实现产品功能所必要的个人信息。这些信息包括： Based on the principle of lawfulness, fairness and necessity, we will only collect the following information that is necessary for the purpose of achieving the product's function.</p>
+			<p category="4.2.1">您在使用我们服务时主动提供的信息Information you provide to us</p>
+			<p category="4.2.1,4.1">·您在注册或使用我们的产品或服务时，主动填写或上传的昵称、手机号码、头像、图片等。Information you provide to us when registering an account.</p>
+			<p category="4.2.1,4.1">·您通过我们的客服或参加我们举办的活动时所提交的信息。Information provided by you via our customer service or whilst participating in our activities.</p>
+			<p category="4.3">·我们一些特定的服务可能需要您提供特定的个人信息来实现相关功能。若您选择不提供该类信息，将不会影响您使用产品或服务中的其他功能。 Some of our service may need you to provide your selected sensitive personal information to achieve specific functions. If you choose not to provide such information, you may not be able to use specific functions in the service, but it will not affect the usage of other functions. If you provide your sensitive information for us voluntarily, you agree that we process your Personal Sensitive Information in accordance with the purposes and methods provided in this policy.</p>
+			<p category="4.2.2">我们在您使用服务时获取的信息Information we may collect when you use our services</p>
+			<p category="4.2.2,4.1">·日志信息We may and store relevant information as the service log when you use our services.</p>
+			<p category="4.2.2,4.1">例如，当您使用我们的服务时，为了维护产品与服务的安全稳定运行，我们可能会收集设备信息、软件信息、服务日志信息等相关信息。</p>
+			<p category="4.2.2,4.1">·位置信息</p>
+			<p category="4.2.2,4.1">例如，当您使用与位置有关的服务时，我们可能会记录您设备所在的位置信息，以便为您提供相关服务。We may collect location data of your device when you use the location-related services, in order to provide relevant service for you.</p>
+			<p category="4.2.2,4.1">您或其他用户在使用服务时提供的信息中可能包含您所在地理位置信息，例如您或其他人共享的照片包含的地理标记信息。</p>
+			<p category="4.2.2,4.5,4.1">GPS位置信息是敏感个人信息，若您拒绝提供该信息，不会影响您使用产品或服务的其他功能，仅会影响与地理位置相关的功能。</p>
+			<p category="4.2.3">·其他相关信息</p>
+			<p category="4.2.3,4.1">为了帮助您更好地使用我们的产品或服务，经您的明确授权我们可能会收集相关信息，例如，您选择开启导入通讯录功能，我们可能对您联系人的姓名和电话号码进行加密，并仅收集加密后的信息。For you to better use our product or service, we will collect relevant information, for example, the friends list, group list information, and voice print. Also, if you choose to turn on "import contacts" feature we will encrypt name and phone number of your contacts and collect encrypted information in order to connect you with people you know who also use our service.</p>
+			<p category="4.2.3,4.1">其他用户分享的信息中含有您的信息Your information contained in the information shared by other users.</p>
+			<p category="4.2.3,4.1">例如，其他用户发布的照片或分享的视频中可能包含您的信息。For example, photos or videos published by other users may contain your information.</p>
+			<p category="4.2.3">其他情况获取的信息Information from other partners.</p>
+			<p category="4.2.3,4.1">在法律允许的情况下，经过您的同意，我们可能会获得您在使用第三方合作伙伴服务时所产生或分享的信息。例如，您使用微信或QQ账户登录第三方合作伙伴服务时，我们会获得您登录第三方合作伙伴服务的名称等信息，以方便您进行授权管理。您可以阅读第三方合作伙伴服务的用户协议和隐私政策了解相关内容。We may have cooperation with third-party partners. Therefore, we may obtain the information that is shared or generated when you use a third-party service. For example, when you log in a third-party service with your WeChat or QQ account, we will know the name of such service and your log-in time so that it will be convenient for you to manage the authorization. Please read the third-party service user agreement or privacy policy carefully.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="4.4,4.3">
+			我们如何使用信息
+			<p category="4.3">我们严格遵守法律法规的规定及与用户的约定，将收集的信息用于以下用途。若我们超出以下用途使用您的信息，我们将再次向您进行说明，并征得您的同意。Subject to applicable laws and regulations or agreements with users, we may use the collected information in the following ways. If we use your information for purposes beyond the following purposes, we will explain to you again and ask for consent.</p>
+			<p category="4.3">向您提供服务To provide you with our services.</p>
+			<p category="4.3">满足您的个性化需求To meet your personal needs.</p>
+			<p category="4.3">例如，语言设定、位置设定、个性化的帮助服务。For example, language settings, location settings and other personalized services.</p>
+			<p category="4.3">安全保障To ensure security.</p>
+			<p category="4.3">例如，我们会将您的信息用于身份验证、安全防范、反诈骗监测、存档备份、客户的安全服务等用途。例如，您下载或安装的安全软件会对恶意程序或病毒进行检测，或为您识别诈骗信息。For example, we will use your information for identity authentication, safety precautions, anti-fraud monitoring, storage and backup, customer safety service and other applications. For example, the safety software downloaded or installed by you will detect malicious programs or viruses, or identify fraudulent information.</p>
+			<p category="4.3">向您推荐您可能感兴趣的广告、资讯等To recommend ads, news etc. that you may be interested in to you.</p>
+			<p category="4.3">评估、改善我们的广告投放和其他促销及推广活动的效果To evaluate and improve the effect of ads and other promotions in our services.</p>
+			<p category="4.3">管理软件To manage software.</p>
+			<p category="4.3">例如，进行软件认证、软件升级等。For example, software certification and software updates, etc.</p>
+			<p category="4.3">邀请您参与有关我们服务的调查To include your participation in survey activities about our product and services.</p>
+			<p category="4.3">为了让您有更好的体验、改善我们的服务或经您同意的其他用途，在符合相关法律法规的前提下，我们可能将通过某些服务所收集的信息用于我们的其他服务。例如，将您在使用我们某项服务时的信息，用于个性化的服务体验、用户研究分析与统计等服务。Subject to applicable laws and regulations, in order to provide you with a better user experience and to improve our services, or upon your consent, we may apply the information collected from certain services to other services provided by us. For instance, we may use your information collected or generated when you use our certain services to show you personalized content or advertisement and for user analysis and statistic service.</p>
+			<p category="4.3">为了确保服务的安全，帮助我们更好地了解我们应用程序的运行情况，我们可能记录相关信息，例如，您使用应用程序的频率、故障信息、总体使用情况、性能数据以及应用程序的来源。我们不会将我们存储在分析软件中的信息与您在应用程序中提供的个人身份信息相结合。To ensure the security of our services, and to help us further understand the state of performance of our applications, we may record relevant information, for example, the frequency of your usage, crash logs information, overall usage, performance data and source of application. We do not link the information we store within the mobile analytics software to personally identifiable information you submit within the mobile application.</p>
+			<p category="4.3,6.1.3,4.6.1">随着业务的发展，我们提供的产品功能和服务可能会有所调整和变化，若处理目的因此发生变更，我们将再次向您进行说明，并征得您的同意。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="13.1">
+			我们如何使用Cookie、标识符及相关技术
+			<p category="13.1">Cookie、标识符及相关技术是互联网行业普遍使用的技术。按照法律法规的相关规定，我们或我们的第三方合作伙伴，可能通过放置安全的Cookie、标识符及相关技术收集您的信息，以便为您提供更好的用户体验和服务。我们会严格要求第三方合作伙伴遵守本隐私政策的相关规定。We and our third party partners may collect your information via safely inserted , for the purposes for providing you with more personalized user experience and service. We will strictly require such third party partners to observe relevant requirements of this policy.</p>
+			<p category="13.1">若您希望了解更多Cookie的安全性等信息，可参见《Cookie政策说明》。You may set or mange Cookie via your browser settings. But please be noted that you may not enjoy the best service experience and certain service may not be used if you stop using Cookie. If you hope to learn more information about the security of Cookie, you may refer to the .</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="4">
+			您分享的信息
+			<p category="4">您可以通过我们的服务与您的好友、家人及其他用户分享您的相关信息。Our services may allow you to share your relevant information with your friends and family and other users. For example, you can share texts and pictures publicly in your "WeChat Moments".</p>
+			<p category="4.5">请注意，这其中可能包含您的个人身份信息、个人财产信息等敏感信息。请您谨慎考虑披露您的相关个人敏感信息。Please be noted that such information may contain sensitive information including your personal identity information and personal property information. Please prudently consider disclosure of your relevant personal sensitive information.</p>
+			<p category="6.4,6.5">您可通过我们服务中的隐私设置来控制您分享信息的范围，也可通过服务中的设置或我们提供的指引删除您公开分享的信息。但请您注意，这些信息仍可能由其他用户或不受我们控制的非关联第三方独立地保存。You may control the scope of information shared by you and you may also delete the information publicly shared using the service setting or according to our guidance. Please note such information may still have been retained independently by other users or unrelated third parties which we are not able to control.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="6">
+			您如何管理自己的信息
+			<p category="6.2,6.3,6.4">您在使用我们服务的过程中， 可以通过查阅、复制、更正、补充、删除等方式来管理您的信息。当您使用我们的具体产品和服务时，您可以查阅其独立的隐私保护指引，我们在这些指引中具体描述了您管理自己的个人信息的途径和方式，以帮助您更好的保护您的个人信息。You may access, amend and delete information provided by you during the registration of your account or other personal information when using our services, or contact us via the notice guidelines. The scope and the way in which you access, amend or delete your personal information depend on the service you use.</p>
+			<p category="6.9">例如，若您在使用地理位置相关服务时，希望停止分享您的地理位置信息，您可通过手机定位关闭功能、软硬件服务商及通讯服务提供商的关闭方式停止分享，建议您仔细阅读相关指引。For example, when using geographical related service, to stop sharing your geographical information, you can stop it by turning off cellphone positioning function, or according to methods provided by software and hardware service providers and communication service providers. Please read relevant guidance carefully.</p>
+			<p category="6,7">在您行使上述权利时，我们可能会要求您进行身份验证，以保障帐号的安全。如果您有任何问题，请通过本隐私政策列明的联系方式 与我们联系 。We will collect and use your information only for achieving the functions of our products or services in accordance with this policy.</p>
+			<p category="7.3,7.1">请您理解，由于技术所限、法律或监管要求，我们可能无法满足您的所有要求，我们会在法律法规规定的期限内进行反馈。同时我们将不断优化产品和服务来保障您的权利。Please understand that due to technical limitations, legal or regulatory requirements, we may not be able to meet all your requests. We endeavor to respond to your requests within a reasonable period of time.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="5">
+			第三方数据处理及信息的公开披露
+			<p category="5,8.2">我们与第三方合作过程中，将遵守法律规定，按照最小必要原则，安全审慎地处理相关数据。We may share your personal information with a third party other than our data processors with your prior consent;</p>
+			<p category="5,11">我们将按照法律法规的规定，对数据处理涉及的第三方进行严格的限制。要求其严格遵守我们关于数据隐私保护的措施与要求，包括但不限于根据数据保护协议、承诺书及相关数据处理政策进行处理，保障数据安全。Should we share your personal information with third parties mentioned above, we will use encryption, anonymization or other means to protect your information security.</p>
+			<p category="5.2.2">出于为您提供服务的目的，我们可能委托第三方服务商处理您的个人信息，该等服务商将严格按照我们委托的目的和相关委托处理协议处理个人信息。</p>
+			<p category="5.2.4">我们将严格保护您的个人信息，不会主动公开披露您的个人信息，亦不会主动向合作伙伴分享可用于识别您个人身份的信息，除非经您单独同意或法律法规另有规定，例如：For the purpose of external processing, we may share your personal information with third-party business partners (third-party service providers, contractors, agents, advertising partners, application developers etc., for example, the telecommunication service providers who send out emails and push notifications on our behalf, or the map service providers who provide us with location service) (they may not be located in your jurisdiction), and require them to follow our instructions, the Privacy Policy and any other relevant confidentiality and security measures to process the above information for us and for the purposes of:</p>
+			<p category="4.6.2">·为订立、履行个人作为一方当事人的合同所必需，或者按照法律制定的劳动规章制度和依法签订的集体合同实施人力资源管理所必需；Providing you with our services;</p>
+			<p category="4.6.3">·为履行法定职责或者法定义务所必需；Implementing the purpose of the section "How We Use the Information We Collect";</p>
+			<p category="4.6.4">· 为应对突发公共卫生事件，或者紧急情况下为保护自然人的生命健康和财产安全所必需；Performing our obligations and excising our rights as provided in the and this Privacy Policy;</p>
+			<p category="4.6.5">·为公共利益实施新闻报道、舆论监督等行为，在合理的范围内处理个人信息；Understanding, maintaining and improving our services.</p>
+			<p category="4.6.6">·依照法律规定在合理的范围内处理个人自行公开或者其他已经合法公开的个人信息；</p>
+			<p category="4.6.7">·法律、行政法规规定的其他情形。</p>
+			<p category="5.2.3">随着我们业务的持续发展，当发生合并、收购、资产转让等交易导致向第三方转移您的个人信息时，我们将通过推送通知、公告等形式告知您相关情形，按照法律法规及不低于本隐私政策所要求的标准继续保护或要求新的管理者继续保护您的个人信息。With the development of our business, when mergers, acquisitions, asset transfer or other transactions happens, we will inform you of such circumstances by pushing notifications or notices, and continue to protect or require new controllers to continue to protect your personal information in accordance with the applicable laws and regulations and the standard of protection which will not be lower than that under this Privacy Policy.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="14">
+			我们可能向您发送的信息
+			<p category="14">信息通知Push notifications</p>
+			<p category="14">您在使用我们的服务时，我们可能向您发送电子邮件、短信、资讯或推送通知。</p>
+			<p category="6.9">您可以按照我们的相关提示，在设备上选择取消订阅。如特定的产品和服务存在个性化推送的信息，请您查阅该产品和服务具体的隐私保护指引获取更能多的信息、或关闭个性化推荐。</p>
+			<p category="14">When you use our services, we may send emails, text messages, news or push notifications to you.</p>
+			<p category="14">You may follow the relevant notice to unsubscribe on the device.</p>
+			<p category="14">与服务有关的公告Service announcements</p>
+			<p category="14">我们可能在必要时（例如，因系统维护而暂停某一项服务时）向您发出与服务有关的公告。</p>
+			<p category="14">您可能无法取消这些与服务有关、性质不属于广告的公告。</p>
+			<p category="14">We may send you announcements related to service if necessary (for example, the suspension of certain service due to system maintenance).</p>
+			<p category="14">You may not be able to cancel these non-promotional service-related announcements.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="10">
+			存储信息的地点和期限
+			<p category="10.2">存储信息的地点Where we store information</p>
+			<p category="10.2">我们遵守法律法规的规定，将在中华人民共和国境内收集和产生的个人信息存储在境内。</p>
+			<p category="14">We will store users personal information collected within mainland China within the territory in accordance with applicable laws and regulations.</p>
+			<p category="10.1">存储信息的期限Period of information retention</p>
+			<p category="10.1">一般而言，我们仅在为实现目的所必需的最短时间内保留您的个人信息，但下列情况除外：</p>
+			<p category="14">In general, we will retain your personal information in the shortest possible time to fulfill the purpose of collection of such information. However, for the following purposes, we may change the retention period for the purposes of compliance:</p>
+			<p category="10.1">·为遵守适用的法律法规等有关规定；To comply with the relevant laws and regulations;</p>
+			<p category="10.1">·为遵守法院判决、裁定或其他法律程序的规定；To comply with court decisions, rulings or requirements of other legal procedures;</p>
+			<p category="10.1">·为遵守相关政府机关执法的要求；To comply with the requirements of relevant government agencies or other legally authoritative entities;</p>
+			<p category="10.3,6.1">当我们的产品或服务发生停止运营的情形时，我们将采取例如，推送通知、公告等形式通知您，并在合理的期限内删除或匿名化处理您的个人信息。</p>
+			<p category="14">Should the operation of our products or service terminate, we will inform you in the form of push notifications, announcements, etc., and delete or anonymize your personal information within a reasonable period of time.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="11">
+			信息安全
+			<p category="11">我们为您的信息提供相应的安全保障，以防止信息的丢失、不当使用、未经授权访问或披露。We take security measures to protect your information against loss, improper use, unauthorized access or disclosure.</p>
+			<p category="11">我们严格遵守法律法规保护用户的通信秘密。We will strictly protect users communication in accordance with the applicable laws and regulations.</p>
+			<p category="11">我们将在合理的安全水平内使用各种安全保护措施以保障信息的安全。We will work within the reasonable security standards and use a variety of security measures to protect the security of information.</p>
+			<p category="11">例如，我们使用加密技术、匿名化处理等手段来保护您的个人信息。 For example, we will use encryption technologies (such as TLS, ), anonymization and other means to protect your personal information.</p>
+			<p category="11">我们建立专门的管理制度、流程和组织确保信息安全。We have established a specialized management, process and organization system to ensure information security.</p>
+			<p category="11">例如，我们严格限制访问信息的人员范围，要求他们遵守保密义务，并进行审查。For example, we strictly restrict the scope of personnel who can access information, and require them to comply with their confidentiality obligations and conduct audits.</p>
+			<p category="11,6.1.2">若发生个人信息泄露等安全事件，我们会启动应急预案，阻止安全事件扩大，并以推送通知、公告等形式告知您。In the event of a breach of security incident of personal information, we will activate emergency response plan to prevent the expansion of such security incident and inform you in the form of push notifications, public announcements and etc.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="14">
+			广告
+			<p category="14">为了提供更丰富的广告体验，我们可能向您提供个性化广告服务，您在腾讯及合作第三方的网站、应用及其他渠道中可以接收到相关广告内容。您可以查阅具体产品的隐私保护指引了解更多。如您不希望接收个性化广告，也可以根据具体产品中的指引进行关闭。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="12">
+			未成年人保护
+			<p category="12">我们非常重视对未成年人个人信息的保护。We attach great importance to the protection of personal information of minors.</p>
+			<p category="12">根据相关法律法规的规定，若您是18周岁以下的未成年人，在使用腾讯的服务前，应事先取得您的家长或法定监护人的同意。In accordance with the relevant laws and regulations, if you are a minor under 18 years old, you would be required to obtain you parents' or legal guardian's consent prior to using Tencent service.</p>
+			<p category="12">我们有专门面向14周岁以下的儿童提供的产品或服务、产品或服务中包含专门面向儿童的功能板块，或者需要用户输入生日、年龄信息等能识别用户年龄的产品或服务。</p>
+			<p category="12">根据相关法律法规的规定，若您是14周岁以下的儿童，在使用相关的产品或服务前，应当按照注册、使用流程，事先取得您的家长或法定监护人的同意，并由您的家长或法定监护人帮助您完成产品或服务注册流程，以便您能使用我们提供的产品或服务。</p>
+			<p category="12">若您是儿童的监护人，当您在帮助儿童完成产品或服务的注册、使用前，应当仔细阅读本政策、产品具体的隐私保护指引（如有）和《儿童隐私保护声明》，决定是否同意本政策、产品具体的隐私保护指引（如有）和《儿童隐私保护声明》并帮助儿童进行注册、使用，以便儿童能使用我们提供的产品或服务。</p>
+			<p category="12">如您对您所监护的儿童的个人信息保护有相关疑问或权利请求时，请通过《儿童隐私保护声明》中的第七部分中披露的联系方式与我们联系。我们会在合理的时间内处理并回复您。</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="1.1">
+			适用范围
+			<p category="1.1">本隐私政策适用的产品和服务由深圳市腾讯计算机系统有限公司提供。All of our services are subject to this Privacy Policy.</p>
+			<p category="14">某些服务有其特定的隐私指引/声明，该特定隐私指引/声明更具体地说明我们在该服务中如何处理您的信息。However, some services have their own specific privacy guidance/statement, such specific privacy guidance/statement describe how we process your information in the service more specifically.</p>
+			<p category="14">如本政策与特定服务的隐私指引/声明有不一致之处，请以该特定隐私指引声明为准。If this Privacy Policy is inconsistent with the privacy guidance/statement of a particular service, the privacy policy of that particular service shall prevail.</p>
+			<p category="14">请您注意，本政策不适用由其他公司或个人提供的服务。Please note this Privacy Policy is not applicable to services provided by other companies or inpiduals.</p>
+			<p category="14">例如，您通过使用微信帐号登录其他公司或个人提供的服务。For example, you may log in services provided by other companies or inpiduals with WeChat account.</p>
+			<p category="14">您使用该等第三方服务须受其隐私政策（而非本政策）约束，您需要仔细阅读其政策内容。Your use of such third-party services is subject to the terms and privacy policy of such third-party services (rather than this Privacy Policy), and you need to read their privacy practice carefully.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="1.2">
+			联系我们
+			<p category="3">我们设立了专门的个人信息保护团队和个人信息保护负责人，如果您对本隐私政策或个人信息保护相关事宜有任何疑问或投诉、建议时，您可以通过以下方式与我们联系：</p>
+			<p category="3.2.2">1. 您可以填写  个人信息保护和隐私问题反馈问卷 与我们联系；2. 将问题发送至Dataprivacy@tencent.com；3. 通过https://kf.qq.com/与我们联系；4. 将您的问题邮寄至下列地址：</p>
+			<p category="3.2.3">中国广东省深圳市南山区海天二路33号腾讯滨海大厦 数据隐私保护部（收）邮编：518054</p>
+			<p category="7.1">我们将尽快审核所涉问题，并在15个工作日或法律法规规定的期限内予以反馈。We will review your queries and reply within 15 days after verifying your user identity.</p>
+		</title>
+	</section>
+	<section>
+		<title tagname="span" depth="13" font-size="1.0" font-weight="1.0" category="6.1.1">
+			变更
+			<p category="6.1.1">我们可能适时修订本隐私政策内容。We may update and revise this Privacy Policy from time to time,</p>
+			<p category="6.1.1">如该等变更会导致您在本隐私政策项下权利的实质减损，我们将在变更生效前，通过在页面显著位置提示。特定产品和服务的隐私保护指引有关个人信息的处理目的、处理方式和处理的个人信息种类发生变更的，会重新取得您的同意。and if such changes result in a substantial impairment of your rights under this Privacy policy, we will notify you by sending you an e-mail and by reminding you at prominent place on the webpage before the changes take effect.</p>
+			<p category="14">关于腾讯 |  About Tencent  | 服务协议 | 隐私政策 | 开放平台 | 广告服务 | 腾讯招聘 | 腾讯公益 | 腾讯云 | 客服中心 |  举报中心  | 网站导航</p>
+			<p category="14">腾讯公司 版权所有</p>
+		</title>
+	</section>
+</policy>

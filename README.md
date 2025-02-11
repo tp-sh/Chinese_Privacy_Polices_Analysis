@@ -93,3 +93,7 @@ Example code selects the following classifiers: XGBoost, Random Forest, Extra Tr
 ```
 python classifiers_compare.py
 ```
+
+## Experiment Results
+
+![figure1](assets/experiment_results.png)
